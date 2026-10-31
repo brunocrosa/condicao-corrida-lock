@@ -1,4 +1,4 @@
-# Prática 2 – Condição de Corrida e Controle com Lock em Python
+# Experimento: Condição de Corrida e Controle com Lock em Python
 
 ## Sobre o projeto
 
