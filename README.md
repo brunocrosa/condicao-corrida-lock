@@ -34,7 +34,7 @@ Ao final, o programa apresenta os resultados das duas execuções e compara os v
 4. Execute o seguinte comando no terminal:
 
 ```bash
-python pratica2_threads.py
+python threads.py
 ```
 
 ## Resultados obtidos
