@@ -1,3 +1,4 @@
+
 """
 Prática 2 — Condição de corrida e controle por Lock.
 
